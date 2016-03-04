@@ -3,6 +3,7 @@
 	Copyright (c) 2007-2009 Josh Bush (digitalbush.com)
 	Licensed under the MIT license (http://digitalbush.com/projects/masked-input-plugin/#license)
 	Version: 1.2.2 (03/09/2009 22:39:06)
+	输入框格式化插件
 */
 (function($) {
 	var pasteEventName = ($.support  ? 'paste' : 'input') + ".mask";
